@@ -1,0 +1,10 @@
+pwd = mostra em qual diretório estamos.
+cd = muda de pasta.
+cd.. = volta a pasta anterior
+ls = lista os arquivos de pasta.
+mkdir = cria uma nova pasta.
+ni = cria um novo arquivo.
+ni + nome do arquivo.txt  = cria arquivo de texto.
+cat = mostra o conteúdo de um arquivo.
+cat + nome da pasta = lista conteúdo da pasta.
+ctrl + l = limpar o terminal.

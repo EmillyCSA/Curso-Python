@@ -1,0 +1,79 @@
+EXERCICIO 1
+
+Crie uma nova pasta(dentro de uma pasta atual) chamada aulas-python, entre nela 
+e crie um arquivo chamado teste.py. Esse arquivo deve ser um código simples 
+apresentando a frase "Um curso de python".  Execute esse código.
+
+EXERCICIO 2
+
+De dentro da pasta aulas-python, volte para a "pasta pai" dela, e nessa pasta pai,
+crie um arquivo python chamado estado.py
+Nesse arquivo estado.py, escreva um código python que exiba na tela o seu nome se apresentando 
+e o nome do estado de onde você é.
+Execute o código. 
+
+EXERCICIO 3
+
+Crie duas variáveis, uma chamada nome e outra chamada idade.
+Atribua a elas o nome e a idade de alguém, e mostre essas informações na tela no seguinte formato:
+Me chamo [nome] e tenho [idade] anos.
+
+EXERCICIO 4 
+
+Crie duas variáveis: nome e animal, contendo o nome e o animal de estimção.
+Em seguida, mostre essas informações no seguinte formato, usando as três formas de exibir
+testo junto com as variáveis.
+O (a) [nome], tem um [animal]
+
+EXERCICIO 5
+
+Crie uma constante chamada PAIS com o valor "Brasil", 
+uma  variável chamada nome como o nome de alguém e outra chamada idade 
+com a idade da pessoa. Exiba essas informações no seguinte formato:
+[nome] mora no [PAIS] e tem [idade] anos.
+
+
+EXERCICIO 6
+
+Crie 4 variáveis com os seguintes nomes:
+- nome
+- idade
+- altura
+- uma variável booleana para representar se gosta de programar
+
+Preencha essas variáveis com informações de alguém, em seguida exiba o tipo de cada variável.
+
+EXERCICIO 7
+
+Usando as mesmas variáveis do exercicio anterior, 
+exiba uma frase com todas essas informações usando f-string.
+
+EXERCICIO 8
+
+Crie uma variável chamada "estuda_python" e atribua a ela um valor booleano.
+Depois exiba uma frase dizendo se a pessoa estuda python ou não.
+
+EXERCICIO 9 - OPERADORES ARITMÉTICOS
+
+Crie duas variáveis com valores inteiros.
+Faça com essas variáveis todas as operações aritméticas mostradas na aula.
+Armazene os resultados de cada operação em variáveis separadas e utilize f strings 
+para imprimir cada resultado  no seguinte modelo:
+(exemplo para soma)
+
+"resultado da soma: 10"
+
+
+EXERCICIO 10  -  TRABALHANDO COM NUMEROS DECIMAIS
+
+Crie duas variáveis, uma contendo um valor com três casas decimais, 
+e outra contendo um valor decimal com duas casas decimais.
+Multiplique essas duas variáveis e apresente o resultado contendo duas casas decimais.
+
+
+EXERCICIO 11  -  OPERADORES RELACIONAIS
+
+Crie duas variáveis inteiras. 
+Faça todas as operações relacionais  apresentadas na aula, 
+exibindo o resultado de cada comparação.
+
