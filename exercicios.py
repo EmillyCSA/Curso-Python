@@ -139,3 +139,5 @@ print(a <= b)
 print(a >= b)
 print(a == 8)
 print (a != 15)
+
+#EXERCICIO 12

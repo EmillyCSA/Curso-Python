@@ -77,3 +77,4 @@ Crie duas variáveis inteiras.
 Faça todas as operações relacionais  apresentadas na aula, 
 exibindo o resultado de cada comparação.
 
+APENAS EXERCICIOS EM TEXTO.
