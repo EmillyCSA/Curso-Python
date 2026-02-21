@@ -1,0 +1,13 @@
+EXERCICIOS DE IMPUT DE DADOS
+
+EXERCICIO 1
+
+Peça ao usuário para digitar o nome dele e exiba uma saudação personalizada.
+Ex: Olá, Fulano! Seja bem vindo!
+
+
+EXERCICIO 2
+
+Peça dois numeros inteiros ao usuário, some-os, e apresente o resultado em uma 
+frase no formato abaixo.
+Ex: O resultado é: 
