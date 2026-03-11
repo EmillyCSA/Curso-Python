@@ -1,0 +1,51 @@
+PROJETO CAIXA ELETRÔNICO - OBJETIVO TREINAR E APRENDER
+
+Esse sistema terá:
+
+- Consultar saldo
+- Sacar dinheiro
+- Depositar dinheiro
+- Menu que repete até o usuário sair
+
+LÓGICA DO CAIXA ELETRÔNICO (Passo a passo)
+
+1️⃣ Criar variáveis principais
+
+Precisamos guardar:
+
+. saldo da conta
+. opção escolhida
+. valor de saque ou depósito
+
+2️⃣ Criar um menu que repete
+
+O caixa eletrônico não encerra após uma operação, então usamos um loop (enquanto).
+
+3️⃣ Mostrar o menu de opções:
+
+1 - Consultar saldo
+2 - Sacar dinheiro
+3 - Depositar dinheiro
+4 - Sair
+
+Depois guardamos a escolha do cliente:
+
+4️⃣ Consultar saldo
+
+Se a opção for 1, mostramos o saldo.
+
+5️⃣ Sacar dinheiro
+
+Se a opção for 2, pedimos o valor do saque.
+
+Agora verificamos se tem saldo suficiente, antes de realizar o saque.
+Se tiver o valor, o saque será realizado.
+Se não tiver o valor, aparecerá a mensagem informando: Saldo insuficiente.
+
+6️⃣ Depositar dinheiro
+
+Se escolher 3, o usuário adiciona dinheiro.
+
+7️⃣ Sair do sistema
+
+Se escolher 4, o programa encerra.
