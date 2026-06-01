@@ -1,0 +1,6 @@
+Exercicio 1
+
+Peça ao usuário para digitar a temperatura atual em Celsius.
+Se for maior ou igual a 30, exiba "Está muito quente!". 
+Se estiver acima ou igual a 20 e abaixo de 30, exiba "Está agradável!".
+Se estiver abaixo de 20 exiba "Está muito frio!".
