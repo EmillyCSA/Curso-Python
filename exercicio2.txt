@@ -1,0 +1,9 @@
+
+EXERCICIO 2
+
+Peça ao usuário para digitar a idade de uma pessoa.
+Com base nessa idade, informe o valor da tarifa de transporte que terá que ser paga.
+Se a idade for menos de 6 anos, tarifa será gratuita.
+Se for acima ou igual a 6 anos e abaixo de 18 anos, será meia tarifa (5 reais).
+Se for a partir de 18 anos e abaixo de 60 anos, tarifa inteira (10 reais).
+Se for idoso acima de 60 anos, tarifa gratuita.
