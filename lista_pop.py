@@ -9,3 +9,7 @@ lista.pop (3)
 
 print ("Lista depois do pop:")
 print (lista)
+
+lista [0] = "laranja"
+print ("Lista depois da modificação")
+print (lista)
